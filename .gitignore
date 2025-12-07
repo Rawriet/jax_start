@@ -1,0 +1,13 @@
+
+__pycache__/
+*.pyc
+
+jax_rocm_env/
+venv/
+.venv/
+env/
+
+.vscode/
+
+*.png
+*.jpg
